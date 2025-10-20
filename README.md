@@ -7,3 +7,5 @@ The course is divided in two parts:
 2. **ADVANCED ALGORITHMS**
 
 The repo will be updated every week.
+
+---
